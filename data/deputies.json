@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Fábio Félix (PSOL)",
+    "total_verba_disponivel": 5000000.0,
+    "allocated_by_category": {
+      "Mobiidade": 3000000.0
+    },
+    "inclinacao_por_categoria": {
+      "Mobiidade": 2,
+      "Saúde": 3,
+      "Habitação": 2,
+      "Educação": 3
+    },
+    "profile": "Foco e Bandeiras: Direitos humanos, população LGBTQIA+, população negra e assistência\nsocial. Atua no combate à fome e na busca por políticas públicas que enfrentem violações\nhistóricas e desigualdades sociais.\nAtuação e Relevância: Presidiu a Comissão de Direitos Humanos e foi relator da CPI do\nFeminicídio, mostrando atuação direta em pautas sociais. Criou as três primeiras casas de\nacolhimento públicas para pessoas LGBTQIA+ no Brasil.\n",
+    "actual_spent_amount": 5000000.0,
+    "needs_reallocation": false
+  },
+  {
+    "id": 2,
+    "name": "Chico Vigilante (PT)",
+    "total_verba_disponivel": 5000000.0,
+    "allocated_by_category": {
+      "Mobiidade": 2000000.0,
+      "Saúde": 1000000.0,
+      "Habitação": 500000.0
+    },
+    "inclinacao_por_categoria": {
+      "Mobiidade": 5,
+      "Saúde": 2,
+      "Habitação": 2,
+      "Educação": 1
+    },
+    "profile": "Foco e Bandeiras: Saúde, educação e, principalmente, geração de emprego. Ele defende\no incentivo ao setor produtivo e a revisão da ideia de que Brasília é apenas uma cidade de\nservidores públicos. Ele é um defensor de longa data de causas trabalhistas, tendo fundado\no sindicato dos vigilantes do DF e a CUT Brasília.\nAtuação e Relevância: Sua trajetória como sindicalista e fundador de entidades de classe\ndemonstra um forte histórico de articulação política em defesa dos trabalhadores. El e\ntambém se opõe à privatização de serviços essenciais, como a CEB e a Caesb.",
+    "actual_spent_amount": 5000000.0,
+    "needs_reallocation": false
+  },
+  {
+    "id": 3,
+    "name": "Max Maciel (PSOL)",
+    "total_verba_disponivel": 5000000.0,
+    "allocated_by_category": {
+      "Mobiidade": 2000000.0
+    },
+    "inclinacao_por_categoria": {},
+    "profile": "Foco e Bandeiras: Juventude, economia criativa, descentralização da cultura e mobilidade\nurbana. Defende a economia criativa como um modelo de desenvolvimento sustentável para\no DF e busca investir na capacitação de jovens em áreas como tecnologia e audiovisual.\nAtuação e Relevância: Sua atuação é voltada para a periferia, com um forte trabalho em\nCeilândia, onde nasceu e cresceu. Ele defende a reestruturação do transporte e a expansão\ndo metrô para áreas de interesse social.\n",
+    "actual_spent_amount": 5000000.0,
+    "needs_reallocation": false
+  },
+  {
+    "id": 4,
+    "name": "Martins Machado (Republicanos)",
+    "total_verba_disponivel": 5000000.0,
+    "allocated_by_category": {},
+    "inclinacao_por_categoria": {},
+    "profile": "Foco e Bandeiras: Educação, atenção aos idosos e esporte. Ele defende a saúde\npreventiva nas escolas e a inclusão digital dos idosos. Sua campanha tem como lema \"Fé,\nForça e Família\".\nAtuação e Relevância: Destinou mais de R$ 6 milhões em emendas para projetos esportivos.\nEle também é autor de um projeto de lei que muda a sinalização de vagas para idosos para\n\"60+\".",
+    "actual_spent_amount": 5000000.0,
+    "needs_reallocation": false
+  },
+  {
+    "id": 5,
+    "name": "Eduardo Pedrosa (União Brasil)",
+    "total_verba_disponivel": 5000000.0,
+    "allocated_by_category": {},
+    "inclinacao_por_categoria": {},
+    "profile": "Foco e Bandeiras: Capacitação profissional, empreendedorismo, geração de emprego e\nrenda, além de saúde pública, com foco em pessoas com deficiência e doenças raras. Ele\ndefende a inovação e a tecnologia como o futuro do DF, e a necessidade de reduzir a carga\ntributária.\nAtuação e Relevância: É autor de uma lei que fixou o ISS em 2% para o setor de tecnologia,\nbuscando segurança jurídica. Destinou emendas para a revitalização de um centro de\nreferência para pessoas com Síndrome de Down e para a construção de um Hospital de\nDoenças Raras.",
+    "actual_spent_amount": 5000000.0,
+    "needs_reallocation": false
+  },
+  {
+    "id": 6,
+    "name": "João Cardoso (Avante)",
+    "total_verba_disponivel": 5000000.0,
+    "allocated_by_category": {},
+    "inclinacao_por_categoria": {},
+    "profile": "Foco e Bandeiras: Educação, defesa dos servidores públicos, estímulo ao setor produtivo\ne meio ambiente. Ele defende a flexibilização da legislação para o setor produtivo e se opõe\na projetos que possam prejudicar os empreendedores.\nAtuação e Relevância: Destinou emendas para climatizar escolas em Sobradinho e incentivar\na contratação de empresas locais para as melhorias.\n",
+    "actual_spent_amount": 5000000.0,
+    "needs_reallocation": false
+  },
+  {
+    "id": 7,
+    "name": "Gabriel Magno (PT)",
+    "total_verba_disponivel": 5000000.0,
+    "allocated_by_category": {},
+    "inclinacao_por_categoria": {},
+    "profile": "Foco e Bandeiras: Educação, serviço público e direito à cidade, incluindo mobilidade e\nacessibilidade. Ele defende que o Estado tem um papel fundamental na geração de emprego\ne renda e na aplicação de recursos em áreas mais vulneráveis.\nAtuação e Relevância: Ele se coloca como uma oposição responsável e propositiva, focado\nem fiscalizar a aplicação dos recursos públicos e em garantir que as audiências públicas\nsejam um espaço de diálogo real.\n",
+    "actual_spent_amount": 5000000.0,
+    "needs_reallocation": false
+  },
+  {
+    "id": 8,
+    "name": "Paula Belmonte (Cidadania)",
+    "total_verba_disponivel": 5000000.0,
+    "allocated_by_category": {},
+    "inclinacao_por_categoria": {},
+    "profile": "Foco e Bandeiras: Defesa da criança e do adolescente, fiscalização do uso do dinheiro\npúblico e empreendedorismo. Ela defende a reforma tributária e a redução da burocracia\npara o setor produtivo, que é o principal gerador de empregos.\nAtuação e Relevância: Como deputada federal, atuou para prorrogar uma isenção fiscal para\natacadistas no DF.",
+    "actual_spent_amount": 5000000.0,
+    "needs_reallocation": false
+  }
+]

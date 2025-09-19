@@ -1,0 +1,20 @@
+# Ignorar pastas de cache Python
+__pycache__/
+*.pyc
+
+# Ignorar a pasta de dados gerada localmente
+data/
+
+# Ignorar arquivos temporários do Streamlit
+.streamlit/
+
+# Ignorar arquivos específicos do IDE (se usar VS Code)
+.vscode/
+
+# Ignorar arquivos de ambiente virtual
+venv/
+.venv/
+
+# Ignorar outros arquivos temporários ou de log
+*.log
+*.tmp

@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "description": "Ponte do Lago ",
+    "valor_necessario": 3000000.0,
+    "categoria": "Mobiidade",
+    "current_funded_amount": 3000000.0,
+    "current_contributions": {
+      "1": {
+        "total": 3000000.0,
+        "from_allocated_intention": 3000000.0,
+        "from_free_verba": 0
+      }
+    }
+  },
+  {
+    "id": 2,
+    "description": "Hospital são sebastião",
+    "valor_necessario": 1000000.0,
+    "categoria": "Saúde",
+    "current_funded_amount": 1000000.0,
+    "current_contributions": {
+      "2": {
+        "total": 1000000.0,
+        "from_allocated_intention": 1000000.0,
+        "from_free_verba": 0
+      }
+    }
+  },
+  {
+    "id": 3,
+    "description": "Infraestrutura habitacional Por do Sol",
+    "valor_necessario": 1500000.0,
+    "categoria": "Habitação",
+    "current_funded_amount": 1500000.0,
+    "current_contributions": {
+      "8": {
+        "total": 1500000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 1500000.0
+      }
+    }
+  },
+  {
+    "id": 4,
+    "description": "Implementação clinicas odontológicas no Gama",
+    "valor_necessario": 1200000.0,
+    "categoria": "Saúde",
+    "current_funded_amount": 0.0,
+    "current_contributions": {}
+  },
+  {
+    "id": 5,
+    "description": "Clinicas no Gama",
+    "valor_necessario": 1500000.0,
+    "categoria": "Saúde",
+    "current_funded_amount": 500000.0,
+    "current_contributions": {
+      "8": {
+        "total": 500000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 500000.0
+      }
+    }
+  },
+  {
+    "id": 6,
+    "description": "Implantar Creche no Varjão",
+    "valor_necessario": 900000.0,
+    "categoria": "Educação",
+    "current_funded_amount": 0.0,
+    "current_contributions": {}
+  },
+  {
+    "id": 7,
+    "description": "Implementação de viaduto em Sobradinho",
+    "valor_necessario": 7000000.0,
+    "categoria": "Mobiidade",
+    "current_funded_amount": 7000000.0,
+    "current_contributions": {
+      "3": {
+        "total": 3500000.0,
+        "from_allocated_intention": 500000.0,
+        "from_free_verba": 3000000.0
+      },
+      "1": {
+        "total": 2000000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 2000000.0
+      },
+      "2": {
+        "total": 1500000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 1500000.0
+      }
+    }
+  },
+  {
+    "id": 8,
+    "description": "Escola classe Sol Nascente",
+    "valor_necessario": 2000000.0,
+    "categoria": "Educação",
+    "current_funded_amount": 2000000.0,
+    "current_contributions": {
+      "8": {
+        "total": 2000000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 2000000.0
+      }
+    }
+  },
+  {
+    "id": 9,
+    "description": "Implementar Salas para gestão de Secretaria de Habitação",
+    "valor_necessario": 500000.0,
+    "categoria": "Habitação",
+    "current_funded_amount": 500000.0,
+    "current_contributions": {
+      "2": {
+        "total": 500000.0,
+        "from_allocated_intention": 500000.0,
+        "from_free_verba": 0
+      }
+    }
+  },
+  {
+    "id": 10,
+    "description": "Nova Ponte Lago Norte",
+    "valor_necessario": 21000000.0,
+    "categoria": "Mobiidade",
+    "current_funded_amount": 21000000.0,
+    "current_contributions": {
+      "4": {
+        "total": 5000000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 5000000.0
+      },
+      "5": {
+        "total": 5000000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 5000000.0
+      },
+      "6": {
+        "total": 5000000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 5000000.0
+      },
+      "7": {
+        "total": 5000000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 5000000.0
+      },
+      "8": {
+        "total": 1000000.0,
+        "from_allocated_intention": 0,
+        "from_free_verba": 1000000.0
+      }
+    }
+  },
+  {
+    "id": 11,
+    "description": "Caps do Sol Nacente",
+    "valor_necessario": 300000.0,
+    "categoria": "Serviço social",
+    "current_funded_amount": 0.0,
+    "current_contributions": {}
+  },
+  {
+    "id": 12,
+    "description": "Ciclovia  Bernado Sayão Guara 1",
+    "valor_necessario": 3500000.0,
+    "categoria": "Mobiidade",
+    "current_funded_amount": 3500000.0,
+    "current_contributions": {
+      "2": {
+        "total": 2000000.0,
+        "from_allocated_intention": 2000000.0,
+        "from_free_verba": 0
+      },
+      "3": {
+        "total": 1500000.0,
+        "from_allocated_intention": 1500000.0,
+        "from_free_verba": 0
+      }
+    }
+  }
+]
