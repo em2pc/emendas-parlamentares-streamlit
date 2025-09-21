@@ -1,6 +1,7 @@
 # Ignorar pastas de cache Python
 __pycache__/
 *.pyc
+.Python
 
 # Ignorar a pasta de dados gerada localmente
 data/
@@ -19,7 +20,11 @@ venv/
 *.log
 *.tmp
 
+# IDEs
+.vscode/
+.idea/
+
+# Operating System
 .DS_Store
-.ipynb_checkpoints
-.env
+Thumbs.db
 desktop.ini
