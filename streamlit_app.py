@@ -633,7 +633,7 @@ def manage_categories_page():
         
         # Check if used by any emenda
         for emenda in st.session_state.emenda_manager.list_emendas():
-            if emenda.categoria == category_name_to_to_check: # <<-- CORRIGIDO AQUI TBM
+            if emenda.categoria == category_name_to_check: # <<-- CORRIGIDO AQUI TBM
                 return True, f"Emenda '{emenda.description}' pertence a esta categoria."
         return False, None
 
