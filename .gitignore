@@ -18,3 +18,8 @@ venv/
 # Ignorar outros arquivos temporários ou de log
 *.log
 *.tmp
+
+.DS_Store
+.ipynb_checkpoints
+.env
+desktop.ini
