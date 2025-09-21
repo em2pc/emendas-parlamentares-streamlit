@@ -1,6 +1,6 @@
 ---
 title: Sistema de Gerenciamento de Emendas Parlamentares
-emoji: ��️
+emoji: 📊 # ALTERADO AQUI! Tente este ou outro simples como 💻 ou 🔥
 colorFrom: blue
 colorTo: indigo
 sdk: streamlit
