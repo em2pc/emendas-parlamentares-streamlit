@@ -1,3 +1,19 @@
+---
+title: Sistema de Gerenciamento de Emendas Parlamentares
+emoji: ��️
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+# sdk_version: 1.36.0 # Opcional: Especifique a versão exata do Streamlit, se souber. Caso contrário, o Hugging Face usará a versão mais recente.
+app_file: streamlit_app.py # MUITO IMPORTANTE: Garante que o HF saiba qual arquivo executar
+pinned: false
+---
+
+# Sistema de Gerenciamento de Emendas Parlamentares
+
+Este é um sistema desenvolvido em Streamlit para auxiliar no gerenciamento e otimização da alocação de verbas de emendas parlamentares.
+
+... (o restante do seu README.md existente)
 # Sistema de Gerenciamento de Emendas Parlamentares
 
 Este é um sistema desenvolvido em Streamlit para auxiliar no gerenciamento e otimização da alocação de verbas de emendas parlamentares.
