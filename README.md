@@ -1,13 +1,15 @@
 ---
 title: Sistema de Gerenciamento de Emendas Parlamentares
-emoji: 📊 # ALTERADO AQUI! Tente este ou outro simples como 💻 ou 🔥
+emoji: 📊
 colorFrom: blue
 colorTo: indigo
 sdk: streamlit
-# sdk_version: 1.36.0 # Opcional: Especifique a versão exata do Streamlit, se souber. Caso contrário, o Hugging Face usará a versão mais recente.
-app_file: streamlit_app.py # MUITO IMPORTANTE: Garante que o HF saiba qual arquivo executar
+python_version: "3.11" # ADICIONADO AQUI!
+# sdk_version: 1.49.1 # Pode ser útil fixar a versão do Streamlit aqui também, mas o `app_file` já implica isso
+app_file: streamlit_app.py
 pinned: false
 ---
+
 
 # Sistema de Gerenciamento de Emendas Parlamentares
 
